@@ -1,0 +1,20 @@
+npm install body-parser
+npm run server
+npm install cors morgan
+npm i mongoose    // для работы в mongoDB в асинхронной среде
+npm i bcryptjs   //шифрование данный(паролей)
+npm install jsonwebtoken  // для генерация токена
+npm install passport-jwt  // авторизация через json web token
+
+npm install -g @angular/cli  //установка ангуляра
+ng new NAME PROJECT
+
+npm install -D concurrently //Пакет для запуска бка и фронта одновременно
+
+npm install multer moment  //Пакеты для закгрузки картинок и файлов
+npm install materialize-css@next   // 
+ng generate component login-page --skipTests  //создать компонетн и удалить юнит тесты
+
+mongoDB
+Partizan88
+Partizan88
