@@ -18,3 +18,4 @@ ng generate component login-page --skipTests  //создать компонет�
 mongoDB
 Partizan88
 Partizan88
+ng g c overview=page
